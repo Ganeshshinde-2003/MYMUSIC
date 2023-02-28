@@ -1,7 +1,7 @@
 <h1>My Music App</h1>
 <p>This is a web-based music app that allows users to listen to and discover new music. The app is built using HTML, CSS, and JavaScript, and includes a library of 10 songs from various artists.</p>
 
-<h2>Features</h2>
+<h2>Features:</h2>
 <ul>
   <li>Play and pause buttons for each song</li>
   <li>Progress bar to indicate how much of each song has been played</li>
